@@ -164,6 +164,37 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful ins
 ---
 
 ⭐ If you found this project useful, feel free to star the repository.
-## Test Image
+# 📸 Project Screenshots
 
+## 📊 Sales by Region
 ![Sales by Region](Screenshots/sales_by_region.png)
+
+---
+
+## 🛍️ Sales by Product
+![Sales by Product](Screenshots/sales_by_product.png)
+
+---
+
+## 📅 Monthly Sales Trend
+![Monthly Sales Trend](Screenshots/monthly_sales.png)
+
+---
+
+## 💰 Profit by Region
+![Profit by Region](Screenshots/profit_by_region.png)
+
+---
+
+## 📈 Scatter Plot
+![Scatter Plot](Screenshots/scatter_plot.png)
+
+---
+
+## 📊 Histogram
+![Histogram](Screenshots/histogram.png)
+
+---
+
+## 📦 Box Plot
+![Box Plot](Screenshots/box_plot.png)
