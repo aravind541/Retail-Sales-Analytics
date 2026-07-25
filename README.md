@@ -164,3 +164,6 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful ins
 ---
 
 ⭐ If you found this project useful, feel free to star the repository.
+## Test Image
+
+![Sales by Region](Screenshots/sales_by_region.png)
